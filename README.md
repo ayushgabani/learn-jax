@@ -31,7 +31,7 @@ To get started with running the notebooks, first install the `uv` package manage
 Then, launch JupyterLab (the notebook interface) with `uv run --with jupyter jupyter lab` or point your favorite editor to the created IPython kernel.
 
 > [!TIP]
-> You're encouraged to actively engage with them by experimenting with the code; hands-on exploration is one of the best ways to learn. For even deeper understanding, consider working through concepts using pen, paper, and your preferred editor.
+> You're encouraged to actively engage with these notebooks by experimenting with the code. Hands-on exploration is one of the most effective ways to learn. For an even deeper understanding, try working through the concepts using pen and paper alongside your preferred code editor.
 
 ## File Structure
 
